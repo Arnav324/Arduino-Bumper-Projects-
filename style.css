@@ -1,0 +1,269 @@
+h1
+{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h2
+{
+    text-align: center;
+    color: black;
+    background-color: white ;
+    font-family: 'Yesteryear', cursive;
+}
+
+#heading
+{
+    background-color:chartreuse;
+}
+
+#P1h2
+{
+    background-color: red;
+    text-align: center;
+    color: black;
+    font-size: 100;
+    font-family: 'Yesteryear', cursive;
+}
+#www
+{
+    font-size: 20px;
+}
+
+h3
+{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+}
+
+h4
+{
+    font-size: 20px;
+}
+
+
+.links 
+{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Yesteryear', cursive;
+    font-size: 20px;
+    text-align: right;
+    background-color: pink;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.headder
+{
+    background-color: black;
+}
+
+#what
+{
+    text-align: center;
+    font-family: 'Yesteryear', cursive;
+}
+
+#video_src
+{
+    text-align: center;
+}
+
+#wabp
+{
+    font-size: 30px;
+}
+
+.materials
+{
+    font-family: 'Yesteryear', cursive;
+    font-size: 30px;
+}
+
+.p1mat
+{
+    font-size: 40px;
+    text-align: center;
+    background-color: blue;
+}
+
+#p1d
+{
+    font-size: 50px;
+    font-family: 'Yesteryear', cursive;
+    background-color: red;
+    text-align: center;
+    text-shadow: black, 10px;
+}
+
+.o
+{
+    text-align: left;
+}
+
+#qwer
+{
+    text-align: center;
+    font-family: 'Yesteryear', cursive;
+    text-align: center;
+}
+
+h6
+{
+    text-align: left;
+    font-family: Shadows Into Light;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: solid;
+}
+
+.p1nt
+{
+    font-size: 40px;
+    text-align: center;
+    background-color: blue;
+}
+
+.pnt1
+{
+    font-family: 'Yesteryear', cursive;
+    font-size: 30px;
+}
+
+#P2h2
+{
+    background-color: red;
+    text-align: center;
+    color: black;
+    font-size: 100;
+    font-family: 'Yesteryear', cursive;
+}
+
+.p2nt
+{
+    font-size: 40px;
+    text-align: center;
+    background-color: blue;
+}
+
+.pnt2
+{
+    font-family: 'Yesteryear', cursive;
+    font-size: 30px;
+}
+
+.p2mat
+{
+    font-size: 40px;
+    text-align: center;
+    background-color: blue;
+}
+
+.materials2
+{
+    font-family: 'Yesteryear', cursive;
+    font-size: 30px;
+}
+
+#code2
+{
+    text-align: left;
+    font-family: Shadows Into Light;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: solid;
+}
+
+.alt
+{
+    text-align: center;
+    font-family: 'Yesteryear', cursive;
+    text-align: center;
+}
+
+.menu 
+{
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    font-family: sans-serif;
+    top: 0px;
+    z-index: 10;
+    background-color: black;
+}
+
+  #q:hover
+  {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);  
+    background-color: yellow;
+    color: black;
+    font-weight: bolder;
+  }
+
+  #w:hover
+  {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);  
+    background-color: yellow;
+    color: black;
+    font-weight: bolder;
+  }
+
+  #e:hover
+  {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+    background-color: yellow;
+    color: black;
+    font-weight: bolder; 
+  }
+
+  #r:hover
+  {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);  
+    background-color: yellow;
+    color: black;
+    font-weight: bolder;
+  }
+
+  #t:hover
+  {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);  
+    background-color: yellow;
+    color: black;
+    font-weight: bolder;
+  }
+
+  #y:hover
+  {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+    background-color: yellow;
+    color: black;
+    font-weight: bolder;
+  }
+
+  #ide
+  {
+      text-align: right;
+  }
+
